@@ -1,65 +1,4 @@
-// TODO: Include packages needed for this application
-const fs = require('fs');
-const inquirer = require('inquirer');
-
-// TODO: Create an array of questions for user input
-const questions = [
-    {
-        type: 'input',
-        name: 'title',
-        message: 'What is the title of your project?'
-    },
-    {
-        type: 'input',
-        name: 'description',
-        message: 'Describe your project.'
-    },
-    {
-        type: 'input',
-        name: 'installation',
-        message: 'How do we install your project?'
-    },
-    {
-        type: 'input',
-        name: 'instructions',
-        message: 'How should we use your project?'
-    },
-    {
-        type: 'input',
-        name: 'contributors',
-        message: 'Who contributed to this project?'
-    },
-    {
-        type: 'input',
-        name: 'test',
-        message: 'How should we test this project?'
-    },
-    {
-        type: 'list',
-        name: 'license',
-        message: 'What kind of license should your project have?',
-        choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
-    },
-    {
-        type: 'input',
-        name: 'email',
-        message: 'What is your email address?'
-    },
-    {
-        type: 'input',
-        name: 'github',
-        message: 'What is your GitHub username?'
-    },
-    
-];
-
-writeToFile();
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    inquirer.prompt(questions)
-    .then(answers => {
-        let template = `[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
         [![Forks][forks-shield]][forks-url]
         [![Stargazers][stars-shield]][stars-url]
         [![Issues][issues-shield]][issues-url]
@@ -67,7 +6,7 @@ function writeToFile(fileName, data) {
         [![LinkedIn][linkedin-shield]][linkedin-url]
         
 <!-- TITLE -->
-<h1>${answers.title}</h1>
+<h1>NOUNSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -118,20 +57,20 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
-    \`\`\`sh
+    ```sh
     npm install npm@latest -g
-    \`\`\`
+    ```
 
 ### Installation
 
 1. Clone the repo
-    \`\`\`sh
+    ```sh
     git clone https://github.com/github_username/repo_name.git
-    \`\`\`
+    ```
 2. Install NPM packages
-    \`\`\`sh
+    ```sh
     npm install
-    \`\`\`
+    ```
 
 
 
@@ -152,9 +91,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your Changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the Branch (\`git push origin feature/AmazingFeature\`)
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
 
@@ -162,7 +101,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See \`LICENSE\` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
@@ -190,19 +129,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
-`
-        fs.writeFile('README.md', template, (err) => 
-            err ? console.error(err) : console.log('SUCCESS BIZnatch'))
-    })
-};
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
-
-
-
-
-
