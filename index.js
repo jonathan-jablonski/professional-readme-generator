@@ -67,7 +67,7 @@ function writeToFile(fileName, data) {
         [![LinkedIn][linkedin-shield]][linkedin-url]
         
 <!-- TITLE -->
-<h1>${answers.title}</h1>
+### <h1>${answers.title}</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -98,14 +98,7 @@ function writeToFile(fileName, data) {
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-### Built With
-
-* []()
-* []()
-* []()
+${answers.description}
 
 
 
@@ -113,6 +106,7 @@ function writeToFile(fileName, data) {
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+${answers.test}
 
 ### Prerequisites
 
@@ -138,9 +132,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+${answers.instructions}
 
 
 
@@ -148,6 +140,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+### Current Contributors: 
+<ol>${answers.contributors}</ol>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -162,17 +157,15 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See \`LICENSE\` for more information.
-
+${answers.license}
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Email - ${answers.email}
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+GitHub Profile - ${answers.github}
 
 
 

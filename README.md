@@ -6,7 +6,7 @@
         [![LinkedIn][linkedin-shield]][linkedin-url]
         
 <!-- TITLE -->
-<h1>NOUNSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</h1>
+### <h1>Professional README Generator</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+I aim to provide a simple way to create a README that covers all of the bases that a readme should be covering.
 
 
 ### Built With
@@ -52,6 +52,7 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+Test this project on your own machine, using a code editor of your choice
 
 ### Prerequisites
 
@@ -77,9 +78,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Use this project to create a README that contains all of the necessary information for using a repo.
 
 
 
@@ -87,6 +86,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+### Current Contributors: 
+<ol>Me</ol>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -101,17 +103,15 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+MIT
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Email - jonathanjablonski94@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+GitHub Profile - jonathan-jablonski
 
 
 
