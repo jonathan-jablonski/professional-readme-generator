@@ -61,7 +61,8 @@ function writeToFile(fileName, data) {
     .then(answers => {
         // Template borrowed from github.com/othneildrew/Best-README-Template/
         
-        let template = `        
+        let template = `![GitHub license](https://img.shields.io/badge/license-${answers.license}-blue.svg)
+        
 <!-- TITLE -->
 ### <h1>${answers.title} README</h1>
 
@@ -71,9 +72,6 @@ function writeToFile(fileName, data) {
     <ol>
     <li>
         <a href="#about-the-project">About The Project</a>
-        <ul>
-        <li><a href="#built-with">Built With</a></li>
-        </ul>
     </li>
     <li>
         <a href="#getting-started">Getting Started</a>
@@ -96,12 +94,15 @@ function writeToFile(fileName, data) {
 
 ${answers.description}
 
+<!-- LICENSE -->
+## License
 
+This project is licensed under the ${answers.license} license.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps. \n
 ${answers.test}
 
 ### Prerequisites
@@ -150,10 +151,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License ${answers.license}
 
-This project is licensed under the ${answers.license} license.
 
 
 <!-- CONTACT -->
@@ -164,17 +162,6 @@ This project is licensed under the ${answers.license} license.
 <li><a href = https://github.com/${answers.github}>GitHub Profile</a></li>
 `
         fs.writeFile(`${answers.title}-README.md`, template, (err) => 
-            err ? console.error(err) : console.log('SUCCESS BIZnatch'))
+            err ? console.error(err) : console.log('Noice'))
     })
 };
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
-
-
-
-
-

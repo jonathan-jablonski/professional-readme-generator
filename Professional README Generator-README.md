@@ -1,3 +1,4 @@
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
         
 <!-- TITLE -->
 ### <h1>Professional README Generator README</h1>
@@ -8,9 +9,6 @@
     <ol>
     <li>
         <a href="#about-the-project">About The Project</a>
-        <ul>
-        <li><a href="#built-with">Built With</a></li>
-        </ul>
     </li>
     <li>
         <a href="#getting-started">Getting Started</a>
@@ -31,15 +29,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This application is used to generate efficient and well-formatted read-me's regarding a developer's inputs.
+The goal of this project is to generate a well-formatted readme to guide users through using an application. This README was generated using the described application.
 
+<!-- LICENSE -->
+## License
 
+This project is licensed under the MIT license.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-Test this project by cloning the repository.
+To get a local copy up and running follow these simple steps. 
+
+Test this project by inputting previous project guidelines to generate a readable README.
 
 ### Prerequisites
 
@@ -65,7 +67,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Utilize this application to provide a readable guide to using an application that has been in development.
+Use this project to help define the terms of usage for other projects.
 
 
 
@@ -75,7 +77,7 @@ Utilize this application to provide a readable guide to using an application tha
 ## Contributing
 
 ### Current Contributors: 
-<ol>Jonathan Jablonski, and GitHub user: othneildrew</ol>
+<ol>Jonathan Jablonski, GitHub User: othneildrew</ol>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -87,10 +89,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License MIT
 
-This project is licensed under the MIT license.
 
 
 <!-- CONTACT -->
@@ -99,3 +98,7 @@ This project is licensed under the MIT license.
 <li><a href = jonathanjablonski94@gmail.com>Email</a></li>
 
 <li><a href = https://github.com/jonathan-jablonski>GitHub Profile</a></li>
+
+## Link to Video of Demonstration
+
+<li><a href = https://drive.google.com/file/d/1_vP5R9EKl13f5jXp2m-DFiFRQudPzi7c/view>Google Drive Link</a></li>
