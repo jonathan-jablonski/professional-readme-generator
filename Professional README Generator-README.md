@@ -1,12 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-        [![Forks][forks-shield]][forks-url]
-        [![Stargazers][stars-shield]][stars-url]
-        [![Issues][issues-shield]][issues-url]
-        [![MIT License][license-shield]][license-url]
-        [![LinkedIn][linkedin-shield]][linkedin-url]
         
 <!-- TITLE -->
-### <h1>Professional README Generator</h1>
+### <h1>Professional README Generator README</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -37,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Yes
+This application is used to generate efficient and well-formatted read-me's regarding a developer's inputs.
 
 
 
@@ -45,7 +39,7 @@ Yes
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-Multiple Choice
+Test this project by cloning the repository.
 
 ### Prerequisites
 
@@ -71,7 +65,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use it
+Utilize this application to provide a readable guide to using an application that has been in development.
 
 
 
@@ -81,7 +75,7 @@ Use it
 ## Contributing
 
 ### Current Contributors: 
-<ol>Uncle Sam</ol>
+<ol>Jonathan Jablonski, and GitHub user: othneildrew</ol>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -94,31 +88,14 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## License MIT
 
-MIT
+This project is licensed under the MIT license.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Email - jonathanjablonski94@gmail.com
+<li><a href = jonathanjablonski94@gmail.com>Email</a></li>
 
-GitHub Profile - jonathan-jablonski
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+<li><a href = https://github.com/jonathan-jablonski>GitHub Profile</a></li>

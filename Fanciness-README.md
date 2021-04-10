@@ -1,12 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-        [![Forks][forks-shield]][forks-url]
-        [![Stargazers][stars-shield]][stars-url]
-        [![Issues][issues-shield]][issues-url]
-        [![MIT License][license-shield]][license-url]
-        [![LinkedIn][linkedin-shield]][linkedin-url]
         
 <!-- TITLE -->
-### <h1>Professional README Generator</h1>
+### <h1>Fanciness</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -37,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Yes
+YEs
 
 
 
@@ -45,7 +39,7 @@ Yes
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-Multiple Choice
+yes
 
 ### Prerequisites
 
@@ -71,7 +65,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use it
+Yes
 
 
 
@@ -81,7 +75,7 @@ Use it
 ## Contributing
 
 ### Current Contributors: 
-<ol>Uncle Sam</ol>
+<ol>yes</ol>
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -102,9 +96,9 @@ MIT
 <!-- CONTACT -->
 ## Contact
 
-Email - jonathanjablonski94@gmail.com
+Email - yes
 
-GitHub Profile - jonathan-jablonski
+GitHub Profile - 
 
 
 
