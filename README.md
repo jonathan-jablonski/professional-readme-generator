@@ -1,4 +1,3 @@
-# professional-readme-generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
         
 <!-- TITLE -->
